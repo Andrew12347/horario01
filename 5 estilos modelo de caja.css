@@ -1,0 +1,13 @@
+div{
+	width:20%;
+	background:orange;
+	height:200px;
+	margin:20px 50px;
+	padding:30px;
+	border:10px solid black; /*solid o dotted*/
+	display:inline-block;/*por defecto son block ,para poner uno allado de otro=inline block*/
+	
+	
+	/*los elementos en linea no se modifican cuado tienen ancho y alto*/
+   
+}
